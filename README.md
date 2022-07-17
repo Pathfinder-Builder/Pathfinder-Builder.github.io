@@ -1,1 +1,1 @@
-https://pathfinder-builder.github.io/
+pathfinder-builder.github.io
